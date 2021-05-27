@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Angular, Flutter, Express**
 
-- 📫 How to reach me **mehul.kumar171@gmail.com**
+- 📫 Reach me at **mehul.kumar171@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

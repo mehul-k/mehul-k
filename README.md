@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehul!</h1>
-<h3 align="center">A technology enthusiast curious about its untapped potential in energy, finance or self-driving cars</h3>
+<h3 align="center">A technology enthusiast curious about its untapped potential in energy, finance, self-driving cars</h3>
 
 - 🔭 I’m currently working at [Motional's Fleet Autonomy Services](https://github.com/nutonomy)
 
